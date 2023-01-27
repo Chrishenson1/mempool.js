@@ -1,3 +1,4 @@
+
 import bisqJS from "./../../../src/index-bisq";
 
 const init = async () => {
@@ -16,3 +17,4 @@ const init = async () => {
   }
 };
 init();
+complet
